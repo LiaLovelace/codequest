@@ -1,6 +1,6 @@
-# 📊 Roadmap de Análise de Dados
+# 📊 Introdução  à Análise de Dados
 
-## 🚀 Fundamentos
+##  Fundamentos
 | Conceito          | Descrição |
 |------------------|-----------|
 | Estatística      | Média, mediana, moda, desvio padrão, variância |
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Ferramentas
+##  Ferramentas
 | Ferramenta | Descrição |
 |------------|-----------|
 | Python     | Linguagem principal para análise de dados |
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Visualização de Dados
+##  Visualização de Dados
 | Ferramenta  | Descrição |
 |------------|-----------|
 | Matplotlib | Gráficos básicos em Python |
@@ -28,7 +28,7 @@
 
 ---
 
-## 🗄️ Banco de Dados
+##  Banco de Dados
 | Tipo  | Tecnologia |
 |-------|------------|
 | SQL   | MySQL, PostgreSQL, SQLite |
@@ -36,7 +36,7 @@
 
 ---
 
-## 📂 Big Data
+##  Big Data
 | Tecnologia | Descrição |
 |------------|-----------|
 | Hadoop     | Armazenamento e processamento distribuído |
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧼 Limpeza e Pré-processamento de Dados
+##  Limpeza e Pré-processamento de Dados
 | Tarefa             | Descrição |
 |-------------------|-----------|
 | Remoção de outliers | Identificar e eliminar dados inconsistentes |
